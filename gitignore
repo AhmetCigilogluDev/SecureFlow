@@ -1,0 +1,14 @@
+# Çöp klasörleri
+node_modules/
+bin/
+obj/
+.vscode/
+
+# Hassas dosyalar
+.env
+*.db
+
+# Derleme çıktıları
+*.exe
+*.dll
+*.pdb
